@@ -1,0 +1,7 @@
+INFO     root:test_saucedemo.py:17 Login realizado correctamente
+INFO     root:test_saucedemo.py:26 Redirección a la página de inventario validada
+INFO     root:test_saucedemo.py:39 Login realizado correctamente
+INFO     root:test_saucedemo.py:69 Primer producto encontrado: Sauce Labs Backpack - $29.99
+INFO     root:test_saucedemo.py:99 Login realizado correctamente
+INFO     root:test_saucedemo.py:113 Producto agregado al carrito: Sauce Labs Backpack
+INFO     root:test_saucedemo.py:155 Producto verificado correctamente dentro del carrito
