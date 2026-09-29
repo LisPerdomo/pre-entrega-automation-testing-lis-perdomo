@@ -51,3 +51,14 @@ pre-entrega-automation-testing-lis-perdomo/
 ├── pytest.ini
 ├── requirements.txt
 └── README.md
+```
+
+## URL del repositorio
+
+[Ver repositorio en GitHub](https://github.com/LisPerdomo/pre-entrega-automation-testing-lis-perdomo.git)
+
+Para clonar el repositorio:
+
+```bash
+git clone https://github.com/LisPerdomo/pre-entrega-automation-testing-lis-perdomo.git
+```
